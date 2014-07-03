@@ -1,0 +1,18 @@
+c:\users\jpeoples\documents\visual studio 2013\Projects\DatabaseAuditCreator\DatabaseAuditCreator\bin\Debug\DatabaseAuditCreator.exe.config
+c:\users\jpeoples\documents\visual studio 2013\Projects\DatabaseAuditCreator\DatabaseAuditCreator\bin\Debug\DatabaseAuditCreator.exe
+c:\users\jpeoples\documents\visual studio 2013\Projects\DatabaseAuditCreator\DatabaseAuditCreator\bin\Debug\DatabaseAuditCreator.pdb
+c:\users\jpeoples\documents\visual studio 2013\Projects\DatabaseAuditCreator\DatabaseAuditCreator\obj\Debug\DatabaseAuditCreator.Properties.Resources.resources
+c:\users\jpeoples\documents\visual studio 2013\Projects\DatabaseAuditCreator\DatabaseAuditCreator\obj\Debug\DatabaseAuditCreator.csproj.GenerateResource.Cache
+c:\users\jpeoples\documents\visual studio 2013\Projects\DatabaseAuditCreator\DatabaseAuditCreator\obj\Debug\DatabaseAuditCreator.exe
+c:\users\jpeoples\documents\visual studio 2013\Projects\DatabaseAuditCreator\DatabaseAuditCreator\obj\Debug\DatabaseAuditCreator.pdb
+c:\users\jpeoples\documents\visual studio 2013\Projects\DatabaseAuditCreator\DatabaseAuditCreator\obj\Debug\DatabaseAuditCreator.csprojResolveAssemblyReference.cache
+C:\Users\jpeoples\documents\visual studio 2013\Projects\DatabaseAuditCreator\DatabaseAuditCreator\obj\Debug\DatabaseAuditCreator.DatabaseAuditCreator.resources
+C:\Users\Streak\Documents\GitHub\DatabaseAuditCreator\DatabaseAuditCreator\bin\Debug\DatabaseAuditCreator.exe.config
+C:\Users\Streak\Documents\GitHub\DatabaseAuditCreator\DatabaseAuditCreator\obj\Debug\DatabaseAuditCreator.exe
+C:\Users\Streak\Documents\GitHub\DatabaseAuditCreator\DatabaseAuditCreator\obj\Debug\DatabaseAuditCreator.pdb
+C:\Users\Streak\Documents\GitHub\DatabaseAuditCreator\DatabaseAuditCreator\obj\Debug\DatabaseAuditCreator.csprojResolveAssemblyReference.cache
+C:\Users\Streak\Documents\GitHub\DatabaseAuditCreator\DatabaseAuditCreator\obj\Debug\DatabaseAuditCreator.DatabaseAuditCreator.resources
+C:\Users\Streak\Documents\GitHub\DatabaseAuditCreator\DatabaseAuditCreator\obj\Debug\DatabaseAuditCreator.Properties.Resources.resources
+C:\Users\Streak\Documents\GitHub\DatabaseAuditCreator\DatabaseAuditCreator\obj\Debug\DatabaseAuditCreator.csproj.GenerateResource.Cache
+C:\Users\Streak\Documents\GitHub\DatabaseAuditCreator\DatabaseAuditCreator\bin\Debug\DatabaseAuditCreator.exe
+C:\Users\Streak\Documents\GitHub\DatabaseAuditCreator\DatabaseAuditCreator\bin\Debug\DatabaseAuditCreator.pdb
